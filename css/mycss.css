@@ -1,0 +1,64 @@
+#carousel-div{
+  height: 700px;
+  top: -100px;
+  left: -200px;
+}
+.fb-share-button{
+  position: absolute;
+  align-items: center;
+  left: 50%;
+  /* top: 581px; */
+  bottom: 25%;
+}
+.card{
+  width: 600px;
+}
+}#card-action-set{
+    padding: 8px;
+}
+.book-card-size{
+    height: 344px;
+    width: 240px;
+    margin: 20px 20px 20px 20px;
+}
+#card-parent-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Tab-align{
+    display: flex;
+    justify-content: center;
+}
+#dropdown1{
+    background-color: ghostwhite;
+}
+#dropdown2{
+    background-color: ghostwhite;
+}
+.tabs{
+    position: static;
+    display: flex;
+    justify-content:center;
+    overflow-x: auto;
+    overflow-y: visible;
+    height: 48px;
+    width: 100%;
+    background-color: #fff;
+    /* margin: 60px auto; */
+    white-space: nowrap;
+}
+#logo{
+    left:20%;
+}
+#nav-buttons{
+    position:absolute;
+    right:20%;
+}
+#search{
+    width:30%;
+    position: absolute;
+    height:35%;
+    top:8px;
+    background-color: white;
+}
